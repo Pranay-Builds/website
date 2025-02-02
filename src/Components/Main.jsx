@@ -31,7 +31,7 @@ function Content() {
             <li>Python</li>
             <li>Tailwind</li>
             <li>Django</li>
-            <li>Bootstrap</li>
+            <li>Basics of MERN</li>
             <li>Python</li>
             <li>Lua - Roblox Game Development</li>
         </ul>
